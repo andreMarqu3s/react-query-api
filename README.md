@@ -1,3 +1,3 @@
 # react-query-api
 
-### Vite + React Query + https://rickandmortyapi.com/
+### Vite + ReactJS + React Query + https://rickandmortyapi.com/
